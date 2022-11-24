@@ -17,9 +17,9 @@
   - 옳은 방향키를 입력시 캐릭터의 색상이 변하고 방향키가 확산하면서 사라지는 효과를 구현.
   - 15개의 이미지의 투명도와 크기를 조정하면서 이미지 출력
   
-  <img src="./readme_media/motion_KickKey_1.png"  width="7%" height="7%"> <img src="./readme_media/motion_slideKey_1.png"> <img src="./readme_media/motion_flyKey_1.png"> <img src="./readme_media/motion_KickKey_1.png"> 
+  <img src="./readme_media/motion_KickKey_1.png" width="8%" height="8%"> <img src="./readme_media/motion_slideKey_1.png" width="8%" height="8%"> <img src="./readme_media/motion_flyKey_1.png" width="8%" height="8%"> <img src="./readme_media/motion_KickKey_1.png" width="8%" height="8%"> 
 
-  <img src="./readme_media/motion_KickKey_2.png"> <img src="./readme_media/motion_slideKey_2.png"> <img src="./readme_media/motion_flyKey_2.png"> <img src="./readme_media/motion_KickKey_2.png"> 
+  <img src="./readme_media/motion_KickKey_2.png" width="8%" height="8%"> <img src="./readme_media/motion_slideKey_2.png" width="8%" height="8%"> <img src="./readme_media/motion_flyKey_2.png" width="8%" height="8%"> <img src="./readme_media/motion_KickKey_2.png" width="8%" height="8%"> 
   - 모션키는 총 4종
   - 아직 눌러지지 않는 모션키는 바닥에서 빛이 나는 효과로 표현.
   
