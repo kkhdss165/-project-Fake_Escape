@@ -23,8 +23,21 @@
   
   ### 모션(캐릭터)
   - 포토샵과 애니메이트를 활용하여 작업하였다.
-    #### 
-  
+    #### 달리기 모션
+    <img src="./readme_media/runMotion.gif">
+    
+    #### 발차기 모션
+    <img src="./readme_media/kickMotion.gif">
+    
+    #### 점프 모션
+    <img src="./readme_media/jumpMotion.gif">
+    
+    #### 슬라이딩 모션
+    <img src="./readme_media/slideMotion.gif">
+    
+    #### 넘어지는 모션
+    <img src="./readme_media/falldownMotion.gif">
+    
   
   ### 배경, 장애물
 
