@@ -3,6 +3,8 @@
 # Fake_Escape
 2학년 2학기 '자바어플리케이션' 자유주제 기말 프로젝트
 
+<img src="./readme_media/play_screen.gif" width="20%" height="20%">
+
 # <소개>
 - Java의 이미지, 음악, 마우스, 키보드 이벤트 처리를 활용한 리듬게임
 - 모티브 Melody's Escape https://store.steampowered.com/app/270210/Melodys_Escape/
@@ -67,6 +69,3 @@
 
 ## <개발기간>
 2017년 11월~12월(1달)
-
-## <실행영상>
-
