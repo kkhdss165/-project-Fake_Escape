@@ -42,18 +42,16 @@
     <img src="./readme_media/player_falldown.gif">
     
     ### 플라잉 모션
-    <img src="./readme_media/player_fly.gif">
-    
-    - 시각적인 잔상효과를 추가
+    <img src="./readme_media/player_fly.gif"> 
+   - 시각적인 잔상효과를 추가
   ## 배경, 장애물
-  - 포토샵과 애니메이트를 활용하여 작업하였다.
-  - 모션마다 40개의 이미지로 구성, 모션마다 캐릭터의 출력 위치를 조정하여 움직임을 구현.
-    ### 달리기 모션(기본 모션)
-    <img src="./readme_media/player_run.gif">
+  - 캐릭터의 X축은 고정되어 있고 배경과 필드와 장애물이 움직이는 형식
+    ### 무한 반복 배경, 필드
+    <img src="./readme_media/background.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/field.png">
     
-    ### 발차기 모션
-    <img src="./readme_media/player_kick.gif">
-    
+    ### 공중 장애물 
+    <img src="./readme_media/obstruction.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/player_slide2.gif">
+   - 슬라이딩 성공시 장애물 색상 변경
     ### 점프 모션
     <img src="./readme_media/player_jump.gif">
     
