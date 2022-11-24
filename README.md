@@ -1,5 +1,5 @@
 # -project-Fake_Escape
-###(This project is a collaboration with <a href="https://github.com/cach007">JINHONG PARK</a>, <a href="https://github.com/kkhdss165">Kim KyoungHo</a>)
+### (This project is a collaboration with <a href="https://github.com/cach007">JINHONG PARK</a>, <a href="https://github.com/kkhdss165">Kim KyoungHo</a>)
 
 # Fake_Escape
 2학년 2학기 '자바어플리케이션' 자유주제 기말 프로젝트
