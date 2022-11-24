@@ -13,7 +13,7 @@
   <img src="./readme_media/leftKey.png"> <img src="./readme_media/downKey.png"> <img src="./readme_media/rightKey.png"> <img src="./readme_media/upKey.png">
   - 방향키는 총 4종
   
-  <img src="./readme_media/leftKey_effect.gif" width="100%" height="100%"> <img src="./readme_media/downKey_effect.gif" width: 50%; height: 50%;> <img src="./readme_media/rightKey_effect.gif" width: 50%; height: 50%;> <img src="./readme_media/upKey_effect.gif"width: 50%; height: 50%;>
+  <img src="./readme_media/leftKey_effect.gif" width="100%" height="100%"> <img src="./readme_media/downKey_effect.gif" width: 50%; height: 50%;> <img src="./readme_media/rightKey_effect.gif" width: 10%; height: 10%;> <img src="./readme_media/upKey_effect.gif"width: 50%; height: 50%;>
   - 옳은 방향키를 입력시 캐릭터의 색상이 변하고 방향키가 확산하면서 사라지는 효과를 구현.
   - 15개의 이미지의 투명도와 크기를 조정하면서 이미지 출력
   
