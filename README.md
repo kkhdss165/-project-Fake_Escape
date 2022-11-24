@@ -14,6 +14,7 @@
   
   <img src="./readme_media/leftKey_effect.gif"> <img src="./readme_media/downKey_effect.gif"> <img src="./readme_media/rightKey_effect.gif"> <img src="./readme_media/upKey_effect.gif">
   - 옳은 방향키를 입력시 캐릭터의 색상이 변하고 방향키가 확산하면서 사라지는 효과를 구현했다.
+  (15개의 이미지의 투명도와 크기를 조정하면서 이미지 출력)
   
   <img src="./readme_media/motion_KickKey_1.png"> <img src="./readme_media/motion_slideKey_1.png"> <img src="./readme_media/motion_flyKey_1.png"> <img src="./readme_media/motion_KickKey_1.png"> 
 
@@ -23,6 +24,7 @@
   
   ### 모션(캐릭터)
   - 포토샵과 애니메이트를 활용하여 작업하였다.
+  - 모션마다 40개의 이미지로 구성, 모션마다 캐릭터의 출력 위치를 조정하여 움직임을 구현하였다.
     #### 달리기 모션
     <img src="./readme_media/player_run.gif">
     
