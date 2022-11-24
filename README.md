@@ -11,7 +11,8 @@
   ### 음표, 모션(방향키)
   <img src="./readme_media/leftKey.png"> <img src="./readme_media/downKey.png"> <img src="./readme_media/rightKey.png"> <img src="./readme_media/upKey.png">
   - 방향키는 총 4종
-  <img src="./readme_media/leftKey_effect.png"> <img src="./readme_media/downKey_effect.png"> <img src="./readme_media/rightKey_effect.png"> <img src="./readme_media/upKey_effect.png">
+  
+  <img src="./readme_media/leftKey_effect.gif"> <img src="./readme_media/downKey_effect.gif"> <img src="./readme_media/rightKey_effect.gif"> <img src="./readme_media/upKey_effect.gif">
   - 옳은 방향키를 입력시 캐릭터의 색상이 변하고 방향키가 확산하면서 사라지는 효과를 구현했다.
   
   <img src="./readme_media/motion_KickKey_1.png"> <img src="./readme_media/motion_slideKey_1.png"> <img src="./readme_media/motion_flyKey_1.png"> <img src="./readme_media/motion_KickKey_1.png"> 
