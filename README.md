@@ -7,7 +7,7 @@
 
 # <소개>
 - Java의 이미지, 음악, 마우스, 키보드 이벤트 처리를 활용한 리듬게임
-- 모티브 Melody's Escape https://store.steampowered.com/app/270210/Melodys_Escape/
+- 프로젝트 모티브 Melody's Escape https://store.steampowered.com/app/270210/Melodys_Escape/
 - 음악에 맞춰서 생성된 음표(방향키)먹으면 캐릭터의 색상이 변하고, 리듬에 맞춰 모션(방향키) 눌러 장애물을 통과하는 리듬 게임
 - 캐릭터의 X축은 고정되어 있고 배경과 필드와 장애물이 움직이는 형식
   
