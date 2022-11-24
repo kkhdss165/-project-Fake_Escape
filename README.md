@@ -48,8 +48,9 @@
   - 낮은 성능의 개발환경
   
 ## <개발환경>
-- Eclipse, intel Pentium (laptops 4core 1.8Ghz), RAM 4GB
-- Adobe Photoshop, Adobe Animate
+- IDE : Eclipse
+- Design : Adobe Photoshop, Adobe Animate
+- Hardware : intel Pentium (laptops 4core 1.8Ghz), RAM 4GB
 
 ## <개발기간>
 2017년 11월~12월(1달)
