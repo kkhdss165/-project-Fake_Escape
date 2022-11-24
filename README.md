@@ -16,6 +16,7 @@
   
   <img src="./readme_media/KickKey_1.png"> <img src="./readme_media/slideKey_1.png"> <img src="./readme_media/flyKey_1.png"> <img src="./readme_media/KickKey_1.png"> 
   - 모션키는 총 4종
+  
   <img src="./readme_media/KickKey_2.png"> <img src="./readme_media/slideKey_2.png"> <img src="./readme_media/flyKey_2.png"> <img src="./readme_media/KickKey_2.png"> 
   - 아직 눌러지지 않는 모션키는 바닥에서 빛이 나는 효과로 표현했다.
   
