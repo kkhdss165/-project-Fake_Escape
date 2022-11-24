@@ -9,7 +9,7 @@
 - 음악에 맞춰서 생성된 음표(방향키)먹으면 캐릭터의 색상이 변하고, 리듬에 맞춰 모션(방향키) 눌러 장애물을 통과하는 리듬 게임
   
   ### 음표, 모션(방향키)
-  <img src="./readme_media/leftKey.png"><img src="./readme_media/leftKey.png"><img src="./readme_media/leftKey.png"><img src="./readme_media/leftKey.png">
+  <img src="./readme_media/leftKey.png"> <img src="./readme_media/downKey.png"> <img src="./readme_media/rightKey.png"> <img src="./readme_media/upKey.png">
   - 방향키는 총 4종
   - 옳은 방향키를 입력시 방향키가 확산하면서 사라지는 효과를 구현했다.
   
