@@ -42,16 +42,16 @@
     <img src="./readme_media/player_falldown.gif" width="20%" height="20%">
     
     ### 플라잉 모션
-    <img src="./readme_media/player_fly.gif" width="20%" height="20%"> 
+    <img src="./readme_media/player_fly.gif" width="25%" height="25%"> 
     
     - 시각적인 잔상효과를 추가
   ## 배경, 장애물
   - 캐릭터의 X축은 고정되어 있고 배경과 필드와 장애물이 움직이는 형식
     ### 무한 반복 배경, 필드
-    <img src="./readme_media/background.gif" width="20%" height="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/field.png" width="20%" height="20%">
+    <img src="./readme_media/background.gif" width="20%" height="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/field.png" width="25%" height="25%">
     
     ### 공중 장애물 
-    <img src="./readme_media/obstruction.png" width="10%" height="10%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/player_slide2.gif"  width="20%" height="20%">
+    <img src="./readme_media/obstruction.png" width="10%" height="10%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/player_slide2.gif"  width="25%" height="25%">
     - 슬라이딩 성공시 장애물 색상 변경
     ### 벽, 벽이 깨지는 효과(발차기)
     <img src="./readme_media/wall.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/wall_breaking.gif">
