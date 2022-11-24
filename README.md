@@ -43,7 +43,7 @@
   
   ### 배경, 장애물
     #### 벽, 벽이 깨지는 효과(발차기)
-    <img src="./readme_media/wall.png">&nbsp;&nbsp;<img src="./readme_media/wall_breaking.gif">
+    <img src="./readme_media/wall.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/wall_breaking.gif">
   ### 어려웠던점
   - 포토샵, 애니메이트 학습
   - 낮은 성능의 개발환경
