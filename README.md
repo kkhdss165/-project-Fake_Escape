@@ -47,6 +47,7 @@
     - 시각적인 잔상효과를 추가
   
   ### 배경, 장애물
+  
     - 캐릭터의 X축은 고정되어 있고 배경과 필드와 장애물이 움직이는 형식
     #### 무한 반복 배경, 필드
     <img src="./readme_media/background.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./readme_media/field.png">
