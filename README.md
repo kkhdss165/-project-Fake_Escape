@@ -3,7 +3,7 @@
 # Fake_Escape
 2학년 2학기 '자바어플리케이션' 자유주제 기말 프로젝트
 
-<img src="./readme_media/play_screen.gif" width="20%" height="20%">
+<img src="./readme_media/play_screen.gif" width="40%" height="40%">
 
 # <소개>
 - Java의 이미지, 음악, 마우스, 키보드 이벤트 처리를 활용한 리듬게임
