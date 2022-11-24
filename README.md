@@ -2,7 +2,7 @@
 
 # Fake_Escape
 2학년 2학기 '자바어플리케이션' 자유주제 기말 프로젝트
-###(This project is a collaboration with <a href="https://github.com/cach007">JINHONG PARK</a>)
+### (This project is a collaboration with <a href="https://github.com/cach007">JINHONG PARK</a>)
 
 <img src="./readme_media/play_screen.gif" width="40%" height="40%">
 
